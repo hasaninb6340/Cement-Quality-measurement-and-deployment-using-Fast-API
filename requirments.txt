@@ -1,0 +1,6 @@
+you need have installed these libraries 
+Numpy
+Pandas
+FastAPI
+Uvicorn
+Sklearn
